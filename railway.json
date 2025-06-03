@@ -1,0 +1,10 @@
+{
+  "build": {
+    "builder": "npm",
+    "buildCommand": "npm run build"
+  },
+  "start": {
+    "cmd": "npm run preview",
+    "port": 4173
+  }
+}
